@@ -1,4 +1,4 @@
-# Restarant Data Analytics
+# Restaurant Data Analytics
 A restaurant analytics project using real world restaurant data to guide business decision making
 
 ### Business Questions
@@ -16,7 +16,7 @@ A restaurant analytics project using real world restaurant data to guide busines
     * How does the change in sale or lack thereof compare to the year and the whole dataset?
 5. Some products aren't in the menu anymore, is it possible that the removal of these products were badly decided in terms of how these products were selling during their lifetime?
 6. Determine price elasticity - understand customers’ sensitivity to price changes
-7. Is it possible build a model that can realiably predict product sales?
+7. Is it possible build a model that can reliably predict product sales?
 
 **Advanced**
 1. Of all top n best selling products, how many are also being sold in top rated restaurants (of similar cuisine) 
