@@ -30,14 +30,12 @@ A restaurant analytics project using real world restaurant data to guide busines
 * Understand the business better
 
 ## Data Collection
-Dataset was collected from a restaurant's Point of Sale in **annual** format.
-
-I am in the process of obtaining monthly data for more granular analysis.
+Dataset was collected from a restaurant's Point of Sale in **daily** format.
 
 Data that can be used to identify the restaurant itself were either removed or replaced.
 
 ## Data Cleaning
-**CURRENT** - Work in progress
+**CURRENT** - Work in progress: Data standardisation
 
 ## Exploratory Data Analysis
 SOON
