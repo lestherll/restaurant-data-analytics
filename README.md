@@ -22,6 +22,7 @@ A restaurant analytics project using real world restaurant data to guide busines
 1. Of all top n best selling products, how many are also being sold in top rated restaurants (of similar cuisine) 
     * in the local area
     * in the country
+    * Of all these top products that are also being sold at top restaurants, how do they rank in their respective restaurants? (This might not be straightforward to answer as data is needed from different establishments)
 
 #### Implications
 * Menu optimisation
@@ -30,12 +31,20 @@ A restaurant analytics project using real world restaurant data to guide busines
 * Understand the business better
 
 ## Data Collection
-Dataset was collected from a restaurant's Point of Sale in **daily** format.
+Dataset was collected from a restaurant's Point of Sale in **daily** format consisting of 
+a file for all the products sold on each day.
 
 Data that can be used to identify the restaurant itself were either removed or replaced.
 
-## Data Cleaning
-**CURRENT** - Work in progress: Data standardisation
+Stage 1: Collected Annual Data 
+    - Annual data is not needed anymore but I learned about the data I will be dealing with
+    - I need either daily data or monthly for more granular analysis
+Stage 2: Collected Daily Data
+    - I started collecting from 2022 up to present day, it might be worth collecting 2021 data as well
+    - Some days were missing so I need to collect these missing ones if possible
+
+## Data Preparation
+**CURRENT** - Work in progress: data cleaning and standardisation
 
 ## Exploratory Data Analysis
 SOON
