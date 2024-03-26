@@ -1,0 +1,533 @@
+name,type,category
+mojito,drink,asian cocktails
+asia daisy,drink,asian cocktails
+for cherry’s “sake”,drink,asian cocktails
+restaurant plum sour,drink,asian cocktails
+japanese slipper,drink,asian cocktails
+korean yoghurt soju,drink,asian cocktails
+lucky buddha,drink,bottled beer & cider
+tsing tao,drink,bottled beer & cider
+tiger,drink,bottled beer & cider
+corona,drink,bottled beer & cider
+koppaberg,drink,bottled beer & cider
+becks blue,drink,bottled beer & cider
+kirin ichi ban,drink,bottled beer & cider
+da luca prosecco,drink,champagne
+sette bello prosecco,drink,champagne
+prosecco lunetta,drink,champagne
+taittinger brut reserve nv,drink,champagne
+da luca rosato spumante,drink,champagne
+taittinger prestige brut rose,drink,champagne
+lunetta vino spumante rose brut,drink,champagne
+cocktail,drink,cocktails
+mocktail,drink,cocktails
+asia daisy,drink,cocktails
+restaurant plum sour,drink,cocktails
+cocktaill,drink,cocktails
+korean yoghurt soju,drink,cocktails
+espresso martini,drink,cocktails
+japanese slipper,drink,cocktails
+matcha mojito,drink,cocktails
+long island iced tea,drink,cocktails
+whisky smash,drink,cocktails
+margarita,drink,cocktails
+bellini,drink,cocktails
+summer rosé spritz,drink,cocktails
+passoã collins,drink,cocktails
+cosmopolitan,drink,cocktails
+asahi,drink,draught beer
+peroni,drink,draught beer
+stella,drink,draught beer
+camden pale ale,drink,draught beer
+singha lager,drink,draught beer
+cornish orchard cider,drink,draught beer
+half singha,drink,draught beer
+aloe vera,drink,korean soft drinks
+hai tai bong bong grape juice,drink,korean soft drinks
+calpis,drink,korean soft drinks
+jinro cham yi sul,drink,korean soju
+soju,drink,korean soju
+mocktail,drink,mocktails
+sunrise,drink,mocktails
+magical lagoon,drink,mocktails
+shirley temple,drink,mocktails
+monte verde merlot,drink,red wine
+berri estates shiraz,drink,red wine
+rare vineyards pinot noir,drink,red wine
+alma mora malbec,drink,red wine
+merlot valle central brisa,drink,red wine
+pinot noir pays d’oc igp le fou,drink,red wine
+malbec la nina mendoza don cristobal,drink,red wine
+shiraz woolloomooloo,drink,red wine
+belvino pinot grigio rosato,drink,rose wine
+whispering hills,drink,rose wine
+pinot grigio blush delle venezie igt san vigil,drink,rose wine
+white zinfandel burlesque,drink,rose wine
+tap water,drink,soft drinks
+coke,drink,soft drinks
+diet coke,drink,soft drinks
+lemonade,drink,soft drinks
+fever tree tonic,drink,soft drinks
+fanta,drink,soft drinks
+j2o,drink,soft drinks
+dash cordial,drink,soft drinks
+coke zero,drink,soft drinks
+still / sparkling water,drink,soft drinks
+fever tree slimline tonic,drink,soft drinks
+soda water,drink,soft drinks
+aloe vera,drink,soft drinks
+apple juice,drink,soft drinks
+orange juice,drink,soft drinks
+tonic,drink,soft drinks
+hai tai bong bong grape juice,drink,soft drinks
+juice,drink,soft drinks
+pineapple juice,drink,soft drinks
+sprite,drink,soft drinks
+ginger ale,drink,soft drinks
+slimline tonic,drink,soft drinks
+fever tree pink tonic,drink,soft drinks
+tequila,drink,spirits
+navy rum,drink,spirits
+baby guinness,drink,spirits
+gordans,drink,spirits
+sambuca,drink,spirits
+gordans pink gin,drink,spirits
+smirnoff,drink,spirits
+baileys,drink,spirits
+whiskey,drink,spirits
+rum,drink,spirits
+bombay,drink,spirits
+melon liqueur,drink,spirits
+lychee liqueur,drink,spirits
+jack daniels,drink,spirits
+amaretto,drink,spirits
+passion killer,drink,spirits
+martell,drink,spirits
+brandy,drink,spirits
+hendricks,drink,spirits
+passoa,drink,spirits
+green tea,drink,tea / coffee
+americano,drink,tea / coffee
+latte,drink,tea / coffee
+tea,drink,tea / coffee
+espresso,drink,tea / coffee
+cappuccino,drink,tea / coffee
+fruit tea,drink,tea / coffee
+liquer coffee,drink,tea / coffee
+small sake,drink,white wine
+monte verde sauvignon blanc,drink,white wine
+pinot grigio san vigilio provincia di pavia igt,drink,white wine
+parini pinot grigio,drink,white wine
+sauvignon blanc brisa,drink,white wine
+sake,drink,white wine
+gewurztraminer a.a.c. cave de beblenheim,drink,white wine
+short mile bay chardonnay,drink,white wine
+vine trail gewurztraminer,drink,white wine
+cullinan view chenin blanc,drink,white wine
+chenin blanc slow false bay coastal region,drink,white wine
+pulpo sauvignon blanc,drink,white wine
+chardonnay woolloomooloo,drink,white wine
+rib eye,food,bbq
+beef bulgogi,food,bbq
+bulgogi,food,bbq
+pork bulgogi,food,bbq
+pork belly,food,bbq
+"lettuce, garlic & chilli",food,bbq
+chicken bulgogi,food,bbq
+dwaeji galbi ribs,food,bbq
+chargrilled squid,food,bbq
+king prawns,food,bbq
+ox tongue,food,bbq
+grill meat platter,food,bbq platter
+seafood platter,food,bbq platter
+grill meat platter,food,bbq platters
+japanese grill platter,food,bbq platters
+seafood platter,food,bbq platters
+crispy duck bun,food,buns
+chicken teriyaki,food,buns
+chicken katsu bun,food,buns
+beef teriyaki,food,buns
+restaurant buns platter,food,buns
+beef teriyaki bun,food,buns
+chicken teriyaki bun,food,buns
+tofu katsu bun,food,buns
+dorayaki,food,dessert
+mochi,food,dessert
+ice cream,food,dessert
+fudge cake,food,dessert
+cheesecake,food,dessert
+dessert,food,dessert
+hot pot,food,hotpot
+hotpot add-on,food,hotpot
+yaki soba,food,japanese noodles
+soup ramen,food,japanese noodles
+yaki udon,food,japanese noodles
+soup udon,food,japanese noodles
+chicken katsu curry,food,japanese rice dishes
+chicken teriyaki,food,japanese rice dishes
+salmon teriaki rice,food,japanese rice dishes
+beef teriyaki,food,japanese rice dishes
+beef teriyaki rice,food,japanese rice dishes
+salmon teriaki,food,japanese rice dishes
+beef curry,food,japanese rice dishes
+dolsot bimbimbap,food,japanese rice dishes
+kimchi fried rice,food,japanese rice dishes
+prawn katsu curry,food,japanese rice dishes
+chili prawn firecracker rice,food,japanese rice dishes
+grilled unagi,food,japanese rice dishes
+squid thop bap,food,japanese rice dishes
+tonkatsu curry,food,japanese rice dishes
+katsudon pork,food,japanese rice dishes
+gimbap,food,japanese rice dishes
+salmon sashimi & tobiko,food,japanese rice dishes
+salmon & tobiko eggfried rice,food,japanese rice dishes
+bok gum bap,food,japanese rice dishes
+grilled unagi rice,food,japanese rice dishes
+fish karaage,food,japanese rice dishes
+prawn tempura,food,japanese starters
+chicken harumaki,food,japanese starters
+chicken karaagi,food,japanese starters
+spicy squid,food,japanese starters
+vegetable tempura,food,japanese starters
+duck harumaki,food,japanese starters
+takoyaki,food,japanese starters
+wasabi prawns,food,japanese starters
+soft shell crab tempura,food,japanese starters
+agedashi tofu,food,japanese starters
+pan fried scallops,food,japanese starters
+tebaski chicken wings,food,japanese starters
+chicken katsu,food,japanese starters
+salmon tartar,food,japanese starters
+tuna tartar,food,japanese starters
+grilled unagi eel,food,japanese starters
+seafood okonomiyaki,food,japanese starters
+grilled unagi eel side,food,japanese starters
+spicy lamb noodle,food,korean noodles
+ja jang myun,food,korean noodles
+kimchi ramen,food,korean noodles
+spicy mixed seafood noodles han,food,korean noodles
+dolsot bimbimbap,food,korean rice dishes
+spicy lamb noodle,food,korean rice dishes
+yuk gae jang,food,korean rice dishes
+kimchi fried rice,food,korean rice dishes
+kimchi ramen,food,korean rice dishes
+squid thop bap,food,korean rice dishes
+kkori gom tang,food,korean rice dishes
+gimbap,food,korean rice dishes
+bok gum bap,food,korean rice dishes
+kimchi stew,food,korean rice dishes
+tofu stew,food,korean rice dishes
+mandu,food,korean starters
+fried chicken wings,food,korean starters
+kan pun ki,food,korean starters
+seafood pancake,food,korean starters
+kimchi pancake,food,korean starters
+topokki,food,korean starters
+bossam pork belly,food,korean starters
+beef jap chae,food,korean starters
+corn cheese,food,korean starters
+tofu kimchi,food,korean starters
+dubu jorim,food,korean starters
+bento mandu dumplings,food,lunch bento
+bento korean fried wings,food,lunch bento
+chicken katsu  curry 日式咖喱鸡,food,lunch bento
+bento chicken harumaki,food,lunch bento
+pork bulgogi 猪肉片饭,food,lunch bento
+bento vegetable tempura,food,lunch bento
+bento chicken katsu sushi,food,lunch bento
+chicken teriyaki 红烧鸡肉,food,lunch bento
+salmon teriyaki 照烧三文鱼,food,lunch bento
+vegetable skewer 杂菜串,food,lunch bento
+restaurant special set,food,restaurant special
+restaurant match day special,food,restaurant special
+salmon teriyaki,food,restaurant special
+kagugiri,food,restaurant special
+pan seared seabass,food,restaurant special
+pan seared duck breast,food,restaurant special
+chargrilled rib eye steak,food,restaurant special
+rare tuna,food,restaurant special
+pan fried cod fillet,food,restaurant special
+restaurant soft shell crab rolls,food,restaurant special
+gunkan,food,restaurant special
+sushi platter,food,restaurant special
+chilli beef,food,robata grill
+pork yakitori,food,robata grill
+teriyaki salmon,food,robata grill
+teriyaki chicken,food,robata grill
+grilled squid,food,robata grill
+grill wings,food,robata grill
+miso lamb,food,robata grill
+teriyaki beef,food,robata grill
+king prawn,food,robata grill
+mixed vegetable,food,robata grill
+restaurant special set,food,set menu
+lunch/early set,food,set menu
+korean set menu,food,set menu
+chilli fries,food,sides
+egg fried rice,food,sides
+steamed rice,food,sides
+chicken katsu  curry 日式咖喱鸡,food,sides
+sweet potato fries,food,sides
+chicken teriyaki 红烧鸡肉,food,sides
+miso soup,food,sides
+kimchi,food,sides
+salmon teriyaki 照烧三文鱼,food,sides
+edamame,food,sides
+pork bulgogi 猪肉片饭,food,sides
+prawn cracker,food,sides
+kimchi set,food,sides
+cucumber kimchi,food,sides
+dips,food,sides
+mooli kimchi,food,sides
+vegetable skewer 杂菜串,food,sides
+wakame salad,food,sides
+yuk gae jang,food,soup
+kimchi stew,food,soup
+tofu stew,food,soup
+kkori gom tang,food,soup
+maki,food,suchi
+sashimi,food,sushi
+maki,food,sushi
+nigiri,food,sushi
+temaki,food,sushi
+tataki,food,sushi
+gunkan 2pc,food,sushi
+nigiri platter,food,sushi platter
+sushi platter,food,sushi platter
+veg sushi platter,food,sushi platter
+veg sushi platter 20pc,food,sushi platter
+spicy chicken katsu,food,sushi rolls
+dynamite,food,sushi rolls
+california,food,sushi rolls
+seared salmon roll,food,sushi rolls
+prawn tempura,food,sushi rolls
+spicy tuna,food,sushi rolls
+duck sushi roll,food,sushi rolls
+ebi katsu roll,food,sushi rolls
+kagugiri,food,sushi rolls
+ginza roll,food,sushi rolls
+soft shell crab,food,sushi rolls
+duck roll,food,sushi rolls
+salmon avocado,food,sushi rolls
+smoked salmon roll,food,sushi rolls
+rainbow roll,food,sushi rolls
+soft shell crab 8pc,food,sushi rolls
+eel dragon roll,food,sushi rolls
+umi zarigani,food,sushi rolls
+veg okonomiyaki,food,vegan
+tofu curry,food,vegan
+aubergine donburi,food,vegan
+tofu katsu small plate,food,vegan
+pumpkin curry,food,vegan
+miso aubergine small plate,food,vegan
+pumpkin katsu small plate,food,vegan
+pan seared seabass,other,other
+drinks,other,other
+ramen pork belly w/extra veg,other,other
+takeaway box,other,other
+box,other,other
+trial,other,other
+container,other,other
+tequila,other,other
+kimchi fried rice chix and pork,other,other
+restaurant special set with seafood pancake,other,other
+yaki soba vegetable 1/2 portion,other,other
+restaurant special set,other,other
+fried egg,other,other
+bento salmon/sushi,other,other
+lunch set,other,other
+corona,other,other
+spicy chicken gimbap,other,other
+fried egg on yaki soba,other,other
+chilli lobster firecracker rice,other,other
+poke bowl no avocado,other,other
+egg fried rice,other,other
+ta box and bag,other,other
+prawn tempura rice,other,other
+cheesy toppoki,other,other
+pork hotpot,other,other
++ egg fried rice,other,other
+takeaway box and bag,other,other
+bag,other,other
+takeaway,other,other
+boiled egg,other,other
+dolsot bimbimbap beef & chicken,other,other
+bento kfc & pb,other,other
+lettuce,other,other
+tofu katsu bun,other,other
+bento mandu/c.c.curry,other,other
+tapokki with cheese,other,other
+tofu,other,other
+additional beef,other,other
+restaurant set,other,other
+drink,other,other
+kan pun ki,other,other
+plain noodles,other,other
+double espresso,other,other
+egg rice bento,other,other
+asahi,other,other
+burger,other,other
+boxes,other,other
+sho set/seafood pancake starter first,other,other
+salmon maki cj breaktime hehez ty,other,other
+half peroni,other,other
+kagugiri 6pc,other,other
+takeaway boxes,other,other
+restaurant special pancake seafood,other,other
+yaki soba,other,other
+ginger ale,other,other
+sunny side up egg,other,other
+mandu / chix teriyaki bento egg fried rice,other,other
+spf,other,other
+americano,other,other
+egg,other,other
+salmon teriaki with udon,other,other
+yaki soba with tofu,other,other
+hotpot with chicken,other,other
+salmon teriyaki yaki soba,other,other
+spicy salmon poke bowl/miso  soup,other,other
+test,other,other
+cheese,other,other
+hot pot with pork,other,other
+bok gum bap mixed with chix and prawns,other,other
+restaurant special set/seafood pancake,other,other
+soju plum,other,other
+ribeye add on,other,other
+hotpot beef,other,other
+restaurant special,other,other
+plain udon noodles,other,other
+tentojidon ricebowl,other,other
+restaurant special set/sesfood pancake,other,other
+extra duck buns,other,other
+tequila bottle,other,other
+restaurant special set seafood pancake,other,other
+restaurant set/seafood pancake starter first,other,other
+restaurant set for 2,other,other
+cheesy topokki,other,other
+egg rice,other,other
+gluten free tofu,other,other
+grill meat platter,other,other
+small plain yaki soba,other,other
+chicken hotpot,other,other
+egg fried rice add,other,other
+soup vegetable,other,other
+yaki udon with ribeye,other,other
+restaurant  set menu,other,other
+bento /slicy salmon poke bowl,other,other
+f.egg,other,other
+milk,other,other
+beef teriyaki with egg fried rice,other,other
+x,other,other
+yaki udon with rib eye steak - medium,other,other
+cornish cider,other,other
+noodlees,other,other
+lunch set miso/tentojidon,other,other
+extra cheese,other,other
+chicken katsu curry with egg fried rice,other,other
+restaurant set/seafood pancake,other,other
+carrier bag,other,other
+spicy fried rice,other,other
+katsu sauce,other,other
+soju,other,other
+restaurant special / kimchi pancake,other,other
+green soju,other,other
+boxx,other,other
+bento lunch set 1,other,other
+ramen,other,other
+extra chicken,other,other
+dolsot bimbimbap with vegetables and egg fried ric,other,other
+ice,other,other
+avocado salad,other,other
+salmon poke bowl,other,other
+extra pork belly,other,other
+soup ramen vegetable no noodles,other,other
+"hot pot with beef  add ons: 1 noodle, cheese and s",other,other
+beef teriyaki,other,other
+extra ramen,other,other
+chilli lobster rice,other,other
+plain soba noodles,other,other
+cannapi,other,other
+add on egg fried rice,other,other
+additional pork belly,other,other
+beef teriyaki buns,other,other
+buns platter,other,other
+tonic,other,other
+tentojidon & miso soup,other,other
+soup ramen vegetable with vegetable broth non,other,other
+changed egg fried rice,other,other
+pancit canton,other,other
+soba veg,other,other
+crispy pata,other,other
+tungkol sayoooo~~,other,other
+chicken,other,other
+bento box (chicken harumaki / chix teriyaki / egg,other,other
+other,other,other
+restaurant special set\ seafood pancake,other,other
+baileys bottle,other,other
+plain noddles,other,other
+t\a box,other,other
+restaurant special seafood pancake,other,other
+bag and box,other,other
+tentojidon,other,other
+egg f.rice,other,other
+tentojidon rice bowl,other,other
+prawn katsu curry with egg rice,other,other
+korean restaurant set,other,other
+yuk gae jang with tofu,other,other
+big order takeaway,other,other
+malibu,other,other
+diced avocado,other,other
+udon noodles,other,other
+restaurant set/kimchi pancake,other,other
+curry sauce dips,other,other
+korean set menu,other,other
+cranberry juice,other,other
+fried rice,other,other
+half portion of yaki soba chicken,other,other
+korean restaurant special set,other,other
+singha,other,other
+hot chocolate,other,other
+salmon poke bown/both gf,other,other
+egg fried rice upgrade,other,other
+vegetable ramen with vegetable broth,other,other
+beef,other,other
+d. espresso,other,other
+chicken noodles,other,other
+bento,other,other
+extra egg,other,other
+tonkatsu,other,other
+pancit canton seafood,other,other
+pork belly,other,other
+fudge cake,other,other
+tofu teriyaki buns,other,other
+extra boiled eggs,other,other
+tofu curry,other,other
+tofu katsu with rice,other,other
+efr,other,other
+egg fried rice on beef teriyaki,other,other
+becks blue,other,other
+prawn tempura nigiri replacement,other,other
+hotpot ~ beef,other,other
+dissarano,other,other
+plain ramen noodles,other,other
+egg fried ricee,other,other
+restaurant buns platter,other,other
+steamed milk,other,other
+prawns,other,other
+kimchi fried rice beef,other,other
+extra prawns,other,other
+tufo,other,other
+extra fried egg on kimchi for table2,other,other
+additional vegetable,other,other
+plain soba,other,other
+hotpot seafood,other,other
+vegetable raman little spicy,other,other
+toppoki,other,other
+chopped chillies,other,other
+chablis 250ml,other,other
+cocumber kimchi,other,other
+noodles,other,other
+soup noodles spicy,other,other
+half cup steam rice,other,other
+salmon teriyaki egg fried rice,other,other
+flowers,other,other
