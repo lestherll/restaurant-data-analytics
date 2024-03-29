@@ -41,11 +41,17 @@ Stage 1: Collected Annual Data
     - Annual data is not needed anymore but I learned about the data I will be dealing with
     - I need either daily data or monthly for more granular analysis
 Stage 2: Collected Daily Data
-    - I started collecting from 2022 up to present day, it might be worth collecting 2021 data as well
+    - I started collecting from 01 January 2022 up to 29 Feb 2024, it might be worth collecting 2021 data as well
     - Some days were missing so I need to collect these missing ones if possible
 
 ## Data Preparation
-**CURRENT** - Work in progress: standardising `name`
+- Lowercased text columns
+- Introduced new columns and removed some
+- Corrected and standardised `category` 
+
+**CURRENT** 
+- standardising `name`
+- 
 
 ## Exploratory Data Analysis
 SOON
@@ -55,3 +61,13 @@ SOON
 
 ## Findings
 SOON
+
+## Learnings, Success, and Impact
+By the end of this project I would hope to have done all of these:
+- Initiated data-driven decision making by using raw daily sales data and performing an end-to-end data analytics process; uncovering data-informed insights resulting to more efficient use of resources by the company
+- Utilised Python and Pandas, identifying patterns from raw data to automate data preparation leading to more time spent on data analysis
+- Provided client of various improvements to their PoS system leading to better data quality and reduction of data cleaning times
+- Presented data visualisations to client, effectively communicating insights derived from the visual representations
+- Leveraged and evaluated ML models to forecast sales prediction ultimately providing the client with a basis for what factors drives sales and reference for future performance
+- (MAYBE) Deployed Dash web application providing stakeholders a unified, user-friendly data exploration platform to further guide client's long-term data-informed business strategies
+- (MAYBE) Designed and deployed a relational database system to provide the client with a structured data for future use
